@@ -1,14 +1,16 @@
-### Hi there! 👋
+## Hi there! 👋
 
 I am currently based in Chicago, IL. My goal is to get involved in the community and contribute in meaningful ways. 
 
-**Languages** Java, Python, C/C++, Matlab, R, Assembly, Scala, Scheme, scripts  
-**Domains** Data Science, Computer Vision, Algorithms, Engineering, Distributed Systems, Embedded Systems, Robotics, 
+##Languages:
+Java, Python, C/C++, Matlab, R, Assembly, Scala, Scheme, scripts  
+##Domains:
+Data Science, Computer Vision, Algorithms, Engineering, Distributed Systems, Embedded Systems, Robotics, 
 
-Education:
-MS Computer Science - DePaul University  
-BS Electrical Engineering - Georgia Southern University  
-BS Applied Mathematics - Valdosta State University  
+##Education
+• MS Computer Science - DePaul University  
+• BS Electrical Engineering - Georgia Southern University  
+• BS Applied Mathematics - Valdosta State University  
 
 
 
