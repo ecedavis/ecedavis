@@ -1,15 +1,15 @@
 ## Hi there! 👋
 
 I am currently based in Chicago, IL. My goal is to get involved in the community and contribute in meaningful ways. 
-\s
+<br/>
 
 ### Languages:
 Java, Python, C/C++, SQL, Matlab, R, Assembly, VHDL, Scala, Scheme, scripts  
-\s
+<br/>
 
 ### Domains:
 Data Science, Computer Vision, Algorithms, Eletrical Engineering, Distributed Systems, Embedded Systems, Robotics, Blockchain, Numerical Analysis, Time Series Analysis
-\s
+<br/>
 
 ### My Background
 • Systems/Software Engineer - eMeasurematics, LLC.  
