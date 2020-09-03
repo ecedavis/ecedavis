@@ -1,4 +1,5 @@
 ## My Projects:
+<pre>
 - Professional
   - Industrial Inventory Tracking Software     .....  (eMeasurematics)
   
@@ -29,7 +30,7 @@
   - Predicting Credit-Worthiness               .....  (R) 
   - Classifying Parkinson's with Voice Data    .....  (R) 
   - Comparison of Clustering Methods           .....  (R) 
-
+</pre>
 
 
 <br/>
