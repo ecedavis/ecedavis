@@ -1,6 +1,34 @@
-# Hi there! 👋
+## My Projects:
+- Industrial Inventory Tracking Software     .....  (eMeasurematics)
 
-I am currently based in Chicago, IL. My goal is to get involved in the community and contribute in meaningful ways. Please contact me if you would like to collaborate.
+- JPaint Application                         .....  (Java)
+- Blockchain Server                          .....  (Java)
+- Web Server                                 .....  (Java)
+- FTP Server                                 .....  (C++)
+
+- Web-Controlled Object-Avoiding Rover       .....  (C++, Python)
+- Machine Vision (SLAM) Navigation           .....  (Python)
+- Various FPGA, Microcontroller Projects     .....  (VHDL, Assembly, C++)
+- 8-Bit ALU and Datapath Design              .....  (Altera Quartus II)
+- Vehicle Emergency Light Controller         .....  (MIPS Assembly)
+- ZIGBEE Wireless Vehicle Controller         .....  (C++, Python)
+
+- Log Periodic Yagi Antenna Design           .....  (CST Microwave Studio)
+
+
+- Image Segmentation- Superpixel Clustering  .....  (Matlab) CSC 481
+- Texture Analysis- Proposed GLCM Methods    .....  (Matlab) CSC 482
+
+- Classifying Leukemia Data                  .....  (Python) 
+- Predicting Safe Driver Insurance Claims    .....  (Python) 
+- Classifying Customer Satisfaction          .....  (Python)
+- Forcasting Chicago Weather                 .....  (R) 
+- Predicting Credit-Worthiness               .....  (R) 
+- Classifying Parkinson's with Voice Data    .....  (R) 
+- Comparison of Clustering Methods           .....  (R) 
+
+
+
 <br/>
 
 ### Languages:
@@ -10,6 +38,7 @@ Java, Python, C/C++, SQL, Matlab, R, Assembly, VHDL, VBA, Scala, Scheme, shell s
 ### Domains:
 Data Science, Computer Vision, Algorithms, Eletrical Engineering, Distributed Systems, Embedded Systems, Robotics, Blockchain, Numerical Analysis, Time Series Analysis, Design Patterns
 <br/>
+
 
 ### My Background
 • Systems/Software Engineer - eMeasurematics, LLC.  
@@ -21,8 +50,6 @@ Data Science, Computer Vision, Algorithms, Eletrical Engineering, Distributed Sy
 • MS Computer Science - DePaul University  
 • BS Electrical Engineering - Georgia Southern University  
 • BS Applied Mathematics - Valdosta State University  
-
-
 
 
 # Connect: 
@@ -47,6 +74,14 @@ Data Science, Computer Vision, Algorithms, Eletrical Engineering, Distributed Sy
     alt="Follow me on DevTo"
     src="https://raw.githubusercontent.com/ecedavis/ecedavis/master/assets/icons/devto.svg"
   /></a>
+
+
+
+# Thank you 👋
+
+I am currently based in Chicago, IL. My goal is to get involved in the community and contribute in meaningful ways. Please contact me if you would like to collaborate.
+<br/>
+
 
 
 <!--
