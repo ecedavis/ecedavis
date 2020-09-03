@@ -1,11 +1,13 @@
 ## My Projects:
 - Professional
   - Industrial Inventory Tracking Software     .....  (eMeasurematics)
+  
 - Software
   - JPaint Application                         .....  (Java)
   - Blockchain Server                          .....  (Java)
   - Web Server                                 .....  (Java)
   - FTP Server                                 .....  (C++)
+  
 - Embedded Systems
   - Web-Controlled Object-Avoiding Rover       .....  (C++, Python)
   - Machine Vision (SLAM) Navigation           .....  (Python)
@@ -14,9 +16,11 @@
   - Vehicle Emergency Light Controller         .....  (MIPS Assembly)
   - ZIGBEE Wireless Vehicle Controller         .....  (C++, Python)
   - Log Periodic Yagi Antenna Design           .....  (CST Microwave Studio)
+  
 - Computer Vision
   - Image Segmentation- Superpixel Clustering  .....  (Matlab) CSC 481
   - Texture Analysis- Proposed GLCM Methods    .....  (Matlab) CSC 482
+  
 - Machine Learning
   - Classifying Leukemia Data                  .....  (Python) 
   - Predicting Safe Driver Insurance Claims    .....  (Python) 
