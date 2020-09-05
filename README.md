@@ -19,8 +19,8 @@
   - Log Periodic Yagi Antenna Design           .....  (CST Microwave Studio)
   
 - Computer Vision
-  - Image Segmentation- Superpixel Clustering  .....  (Matlab) CSC 481
-  - Texture Analysis- Proposed GLCM Methods    .....  (Matlab) CSC 482
+  - Image Segmentation- Superpixel Clustering  .....  (Matlab)
+  - Texture Analysis- Proposed GLCM Methods    .....  (Matlab)
   
 - Machine Learning
   - Classifying Leukemia Data                  .....  (Python) 
