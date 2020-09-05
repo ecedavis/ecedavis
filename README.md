@@ -6,7 +6,7 @@
 - Software
   - JPaint Application                         .....  (Java)
   - Blockchain Server                          .....  (Java)
-  - Web Server                                 .....  (Java)
+  - HTTP Web Server                            .....  (Java)
   - FTP Server                                 .....  (C++)
   
 - Embedded Systems
