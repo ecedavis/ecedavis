@@ -32,6 +32,10 @@
   - Comparison of Clustering Methods           .....  (R) 
 </pre>
 
+Note:
+Upon request, project details and source code can be provided.
+Project reports will be uploaded soon.
+-Mark
 
 <br/>
 
