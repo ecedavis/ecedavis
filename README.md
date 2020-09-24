@@ -32,7 +32,7 @@ Project reports will be committed soon.
   - Classifying Leukemia Data                  .....  (Python) 
   - Predicting Safe Driver Insurance Claims    .....  (Python) 
   - Classifying Customer Satisfaction          .....  (Python)
-  - Forcasting Chicago Weather                 .....  (R) 
+  - Forecasting Chicago Weather                 .....  (R) 
   - Predicting Credit-Worthiness               .....  (R) 
   - Classifying Parkinson's with Voice Data    .....  (R) 
   - Comparison of Clustering Methods           .....  (R) 
